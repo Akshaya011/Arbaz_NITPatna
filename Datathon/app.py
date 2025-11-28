@@ -5,7 +5,7 @@ from bill_extractor import extract_bill_info_from_url
 
 
 # ------------------------------------------------------------
-# Initialize application
+# Initialize application hello
 # ------------------------------------------------------------
 # FastAPI app acts as the main HTTP interface for external clients.
 app = FastAPI(
