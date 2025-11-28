@@ -58,4 +58,4 @@ bill_extractor.py — handles downloading images, running Tesseract OCR, and bui
 
 app.py — contains the FastAPI route and request-response logic
 
-This separation ensures easier maintenance, debugging, and upgrades.
+This separation ensures easier maintenance, debugging, and upgrades.# Arbaz_NITPatna
